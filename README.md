@@ -1,2 +1,2 @@
 # Portfolio-PowerBI-Federico-Horst
-Portfolio of my projects in Power BI
+Visualization of sales and profit data for a superstore. Objective: Identify which products, regions, categories, and customer segments should be targeted or avoided
